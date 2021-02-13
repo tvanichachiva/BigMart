@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1613254551051.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A79B3B08",
+    "lastKnownWriteTime" : 1613254562,
+    "last_content_update" : 1613254987133,
+    "path" : "C:/Users/tvani/Desktop/R_Projects/BigMart Analysis/Script/BigMar_EDA.R",
+    "project_path" : "Script/BigMar_EDA.R",
+    "properties" : {
+        "cursorPosition" : "5,8",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
